@@ -126,3 +126,4 @@ C:\Documents\..Projects\Todo\TodoAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.
 C:\Documents\..Projects\Todo\TodoAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Documents\..Projects\Todo\TodoAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Documents\..Projects\Todo\TodoAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Documents\..Projects\Todo\TodoAPI\obj\Debug\net8.0\TodoAPI.sourcelink.json
